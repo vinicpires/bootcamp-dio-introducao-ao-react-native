@@ -1,4 +1,4 @@
-# dio
+# DIO
 # Introdução ao Reactve Native
 
 ![image](https://user-images.githubusercontent.com/101333663/174051268-5fc9cc23-47a6-48b2-87fe-82cc7e9cf2d3.png)
